@@ -100,6 +100,9 @@ img {
 .image {
   margin: 20px;
 }
+.form-group {
+    padding: 20px;
+}
 a.button-help {
   padding: 1px 6px;
   border: 1px outset buttonborder;
@@ -145,6 +148,7 @@ h2, h3, h4 {
   padding: 5px;
   color: #000;
   border-radius: 20px/20px;
+  background-color: ;
   text-decoration: none;
   cursor: pointer;
   transition: all 0.3s ease-out;
