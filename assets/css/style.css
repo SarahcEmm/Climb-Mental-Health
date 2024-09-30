@@ -265,7 +265,7 @@ margin-top: 20px;
     }
 
     #logo {
-        font-size: 180%;
+        font-size: 150%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
@@ -283,9 +283,10 @@ margin-top: 20px;
         font-size: 120%;
     }
 }
-mount-logo{
-    height: 50px;
-    width: 50px;
+@media only screen and (max-width: 782px) {
+ .container{
+margin-top: 200px;
+ }
 }
 .card .card-img-top {
   height: 350px;
