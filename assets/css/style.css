@@ -180,14 +180,14 @@ h2, h3, h4 {
 }
 
 .popup {
-  margin: 20px auto;
-  padding: 30px;
-  background: #ff00000c;
-  border-radius: 40px;
-  width: 40%;
+  margin: 0 auto;
+  padding: 5px;
+  background: #000;
+  width: 50%;
   position: relative;
   transition: all 5s ease-in-out;
 }
+
 
 .popup h2 {
   margin-top: 0;
@@ -237,6 +237,9 @@ ul {
   align-items: center;
   justify-content: space-around;
 margin-top: 20px;
+}
+.popup h2 {
+    font-size: 50%;
 }
 
 
