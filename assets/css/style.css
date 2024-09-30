@@ -84,6 +84,43 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+.container {
+    background-color: #16bbbf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  margin-top: 120px;
+  }
+  img {
+    max-width: 100%;
+          max-height: 100%;
+          display: block;
+          box-shadow: 0 2px 2px #363636;
+  }
+  .image {
+    margin: 20px;
+  }
+  a.button-help {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a.button-help:hover {  font-size: 1em;
+    padding: 5px;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #53de90;
+    transition: all 0.3s ease-out;
+  
+  }
+  .text {
+    font-size: 20px;
+    padding-left: 10px;
+  }
 
 
 
