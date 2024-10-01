@@ -263,6 +263,13 @@ padding: 20px;
   margin-right: auto;
   width: 50%;
 }
+ul li {
+  margin: 20px;
+  text-align: center;
+  }
+  .mh-text {
+    margin: 20px;
+  }
 
 
 
