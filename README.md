@@ -1,7 +1,7 @@
 Climb Mental Health is a pretend mental health charity that aims to educate people on mental health and how they can help improve their mental health.
 
+![Website from page](<website climb.jpg>)
 
-Insert image of finished webaiste here
 
 User Experience
 I wanted the website to be none triggering and give information to members of the public who may have limited knowledge of mental health issues.
@@ -14,10 +14,8 @@ Anyone accessing my website should be able to navigate easily and whilst it is s
 This poster I produced myself so that I do not fall under any copyright infringements involved in the distribution of the poster.
 
 There are links to outside organisations to get extra information theses are :
-.
-.
-.
-.
+. Mind.org.uk
+. Rethink.org
 plus a "Need help now?" that links to https://www.mind.org.uk/need-urgent-help/ which is located on the MInd website. this is because it is important to provide professional help when dealing with medical emergencies.
 
 I wish to make my wesite attrative to visitors so they will be return users. 
@@ -37,3 +35,7 @@ As you can see the images match up very well with the finished website.
 
 BUGS
 I struggled with my submit button on the footer and could not get it to move o the correct position. I am oping that I will have time to go back and fix this bug, however I wish to debug it afterwards as although it isn't working as much as i would have liked it is functional. 
+
+The page was shifting to the right and part of the content was not showing, I remedied this by changing the rem value in the container.
+
+NO other bugs were reported.
