@@ -311,6 +311,14 @@ ul li {
     transition: all 0.3s ease-out;
   
   }
+  /* poster */
+
+  .poster {
+    background-color: #16bbbf;
+    text-align: center;
+  margin-top: 160px;
+  padding: 20px;
+  }
 
 
 
