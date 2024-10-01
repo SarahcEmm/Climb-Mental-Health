@@ -241,7 +241,9 @@ margin-top: 20px;
 .popup h2 {
     font-size: 50%;
 }
-
+.text-black {
+  color: rgb(12, 12, 12);
+}
 
 
 
