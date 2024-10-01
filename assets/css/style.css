@@ -247,7 +247,16 @@ margin-top: 20px;
 .media {
   margin-top: 90px;
 }
-
+/* support page css */
+.container-top {
+  background-color: #16bbbf;
+  text-align: center;
+margin-top: 160px;
+padding: 20px;
+}
+.container-top h1 {
+  padding: 20px;
+}
 
 
 
