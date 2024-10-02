@@ -51,4 +51,13 @@ The HTML and CSS are fully tested and function correctly. I had a few minor issu
 
 FEATURES
 
-I wanted the website to have some basic features and not rely on just images and text. Whilst there are images and quite a bit of text, I was aiming at breaking this information up with interactive elements to give the use a rest. For example, on my support page there is a section of text and then a youtube video. This give the reader a chance to rest their eyes and enjoy some   
+I wanted the website to have some basic features and not rely on just images and text. Whilst there are images and quite a bit of text, I was aiming at breaking this information up with interactive elements to give the use a rest. For example, on my support page there is a section of text and then a youtube video. This give the reader a chance to rest their eyes and enjoy some additional information that is not in text form. 
+I used a video from Nottingham City Council and verified that the information included in the media was correct.
+I also placed links on the support page for external professional resources to get additional information.
+I used illustrations from the same artist in the majority of my images, this helped to tie in all the elements and gave my website a consistant theme. I decided to donate to the illustrator for her work, as this is something I may have to do in future projects. I wish to continue to see high quality work being available for free, however it is tough out there and I wanted to credit the content creator fully. 
+I used Pixabay for my images specifically using the art of https://pixabay.com/users/lavnatalia-5858294/ 
+
+WHAT I WISH I HAD DONE AND HOW I CAN IMPROVE ON FUTURE PROJECTS
+
+I wish I had maybe added a third colour or at least maybe changed the opacity of the two colors I already had. I will definetly look at the design element for future projects, however with this one I felt the two colour approach still worked well and gave me a good contrast without being too garish or mawkish.
+I was also aware that the images I used were mainly or women and I would have probably included more diversity in my project. 
