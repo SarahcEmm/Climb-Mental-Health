@@ -57,6 +57,24 @@ I also placed links on the support page for external professional resources to g
 I used illustrations from the same artist in the majority of my images, this helped to tie in all the elements and gave my website a consistant theme. I decided to donate to the illustrator for her work, as this is something I may have to do in future projects. I wish to continue to see high quality work being available for free, however it is tough out there and I wanted to credit the content creator fully. 
 I used Pixabay for my images specifically using the art of https://pixabay.com/users/lavnatalia-5858294/ 
 
+PERFORMANCE
+
+I ran my webpages through Lighthouse and got pretty good scores, there were a few issues.
+1. I had failed to add an alt descrription on one of my images 
+2. on my support page the Youtube video was causing a little slowdown due to cookies being used on the page.
+3. I had a h5 heading that was not following the semanitics of the page correctly.
+
+PERFORMANCE IMAGES
+Home
+![alt text](<Screenshot 2024-10-02 122725.png>)
+Support
+![alt text](<Screenshot 2024-10-02 123035.png>)
+First Aid
+![alt text](<Screenshot 2024-10-02 123351.png>)
+Poster
+![alt text](<Screenshot 2024-10-02 123319.png>)
+I ran my website through the navigator and it worked perfectly for people with vision problems.
+
 WHAT I WISH I HAD DONE AND HOW I CAN IMPROVE ON FUTURE PROJECTS
 
 I wish I had maybe added a third colour or at least maybe changed the opacity of the two colors I already had. I will definetly look at the design element for future projects, however with this one I felt the two colour approach still worked well and gave me a good contrast without being too garish or mawkish.
