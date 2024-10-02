@@ -52,7 +52,7 @@ h1 {
 
 #menu > li {
     margin-bottom: 1em;
-    padding: 30px;
+    padding: 0px;
 }
 #menu > li:hover {
     font-size: 150%;
@@ -318,6 +318,20 @@ ul li {
     transition: all 0.3s ease-out;
   
   }
+
+  /* First Aid */
+.container-first {
+  padding: 20px;
+}
+.container-quotes {
+  padding: 20px;
+}
+.container-quotes p {
+  padding: 20px;
+  text-align: center;
+  font-size: 150%;
+}
+
   /* poster */
 
   .poster {
