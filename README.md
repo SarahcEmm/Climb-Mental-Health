@@ -79,7 +79,7 @@ First Aid
 ![alt text](<Screenshot 2024-10-02 123351.png>)
 Poster
 ![alt text](<Screenshot 2024-10-02 123319.png>)
-I ran my website through the navigator and it worked perfectly for people with vision problems.
+I ran my website through the narrator and it worked perfectly for people with vision problems.
 
 WHAT I WISH I HAD DONE AND HOW I CAN IMPROVE ON FUTURE PROJECTS
 
