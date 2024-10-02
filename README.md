@@ -16,11 +16,15 @@ I called my charity "Climb" because mental health can often feel like a bit of a
 I have tried to make the website as intuative as I can, It is not busy, and I have attempted to take away the sigma of mental health by concentrating on the positives as well as the negatives. I have included a "get help" button in case people need urgent help for a mental health problem. This requires expert help, and as such will link to an external website with professional advice.
 
 Anyone accessing my website should be able to navigate easily and whilst it is simple I think it gives good, basic information about the issues around mental health and wellbeing. I have included a poster that people can use in their workplaces or community areas for free thus helping to stop the spread of disinformation about mental health problems.
+I specifically wanted to put a page on mental health first aiders, as reasearch had shown me the importance of it in the workplace and in organisations. It was a subject that was personal to myself and felt it was a misunderstood or underused resource. 
 This poster I produced myself so that I do not fall under any copyright infringements involved in the distribution of the poster.
 
-There are links to outside organisations to get extra information theses are :
+There are links to outside organisations to get extra information these are :
 . Mind.org.uk
 . Rethink.org
+. https://mhfaengland.org/
+. https://freecoursesinengland.co.uk/
+
 plus a "Need help now?" that links to https://www.mind.org.uk/need-urgent-help/ which is located on the Mind website. This is because it is important to provide professional help when dealing with medical emergencies.
 
 I wish to make my wesite attrative to visitors so they will be return users. 
@@ -33,6 +37,8 @@ I designed my website with the help of balsamiq and although I changed a few thi
 ![alt text](<New Wireframe 1.png>)
 
 ![alt text](<New Wireframe 2.png>)
+
+![alt text](<New Wireframe 1 (1).png>)
 
 ![alt text](<New Wireframe 3.png>)
 
@@ -51,7 +57,7 @@ The HTML and CSS are fully tested and function correctly. I had a few minor issu
 
 FEATURES
 
-I wanted the website to have some basic features and not rely on just images and text. Whilst there are images and quite a bit of text, I was aiming at breaking this information up with interactive elements to give the use a rest. For example, on my support page there is a section of text and then a youtube video. This give the reader a chance to rest their eyes and enjoy some additional information that is not in text form. 
+I wanted the website to have some basic features and not rely on just images and text. Whilst there are images and quite a bit of text, I was aiming at breaking this information up with interactive elements to give the user a rest. For example, on my support page there is a section of text and then a youtube video. This give the reader a chance to rest their eyes and enjoy some additional information that is not in text form. 
 I used a video from Nottingham City Council and verified that the information included in the media was correct.
 I also placed links on the support page for external professional resources to get additional information.
 I used illustrations from the same artist in the majority of my images, this helped to tie in all the elements and gave my website a consistant theme. I decided to donate to the illustrator for her work, as this is something I may have to do in future projects. I wish to continue to see high quality work being available for free, however it is tough out there and I wanted to credit the content creator fully. 
@@ -78,4 +84,4 @@ I ran my website through the navigator and it worked perfectly for people with v
 WHAT I WISH I HAD DONE AND HOW I CAN IMPROVE ON FUTURE PROJECTS
 
 I wish I had maybe added a third colour or at least maybe changed the opacity of the two colors I already had. I will definetly look at the design element for future projects, however with this one I felt the two colour approach still worked well and gave me a good contrast without being too garish or mawkish.
-I was also aware that the images I used were mainly or women and I would have probably included more diversity in my project. 
+I was also aware that the images I used were mainly of women and I would have probably included more diversity in my project. 
